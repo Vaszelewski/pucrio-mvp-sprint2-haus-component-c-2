@@ -9,8 +9,9 @@ Componente C 2 (Lista de Desejos - WISHLIST) do projeto HAUS: Um Sistema web de 
 
 Requisitos:
 - Certificar de que o [Docker](https://docs.docker.com/engine/install/) está instalado em sua máquina e em execução.
-- Se optar por utilizar uma interface Frontend, siga os passos deste repositório: HAUS-Front().
+- Se optar por utilizar uma interface Frontend, siga os passos deste repositório: [HAUS-Front](https://github.com/Vaszelewski/pucrio-mvp-sprint2-haus-component-a-b/).
 
+![back c1](https://github.com/Vaszelewski/pucrio-mvp-sprint2-haus-component-c-2/assets/50892923/07d02675-aa02-4bf3-bea5-51e8ae83487d)
 
 Etapas:
 

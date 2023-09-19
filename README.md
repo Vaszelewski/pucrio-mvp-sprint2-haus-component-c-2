@@ -20,12 +20,12 @@ Etapas:
 
 2 - Ir ao diretório raiz, onde contém o Dockerfile, e executar como administrador o seguinte comando para construir a imagem Docker:
 ```
-$ docker build -t rest-api .
+$ docker build -t rest-apic2 .
 ```
 
 3 - Após a criação da imagem, executar como adminitrador o seguinte comando para rodar o container:
 ```
-$ docker run -p 8000:8000 rest-api
+$ docker run -p 8000:8000 rest-apic2
 ```
 
 Após seguir todos os passos, abrir o link abaixo no bavegador para verificar o status da API em execução
